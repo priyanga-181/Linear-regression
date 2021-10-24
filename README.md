@@ -1,4 +1,4 @@
-# Linear-regression
+# Multiple Linear-regression
 VAC assignment
 
 FISH DATASET
